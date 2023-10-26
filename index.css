@@ -1,0 +1,40 @@
+.main {
+    background-color: rgb(255, 255, 255);
+    padding: 20px 15px;
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 50rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    border-radius: 5px;
+    box-sizing: border-box;
+    box-shadow: 6px 6px 10px;
+}
+
+.goal input {
+    padding: 10px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.date input {
+    padding: 10px;
+    color: black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.btn button {
+    padding: 13px 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    background-color: rgb(3, 132, 16);
+    border: none;
+    border-radius: 3px;
+}
