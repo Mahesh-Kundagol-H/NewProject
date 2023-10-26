@@ -18,6 +18,9 @@
     font-family: sans-serif;
     font-weight: bolder;
     font-size: 18px;
+    outline: 2px solid rgb(244, 215, 52);
+    border: none;
+    border-radius: 3px;
 }
 
 .date input {
@@ -26,10 +29,13 @@
     font-family: sans-serif;
     font-weight: bolder;
     font-size: 18px;
+    outline: 2px solid rgb(244, 215, 52);
+    border: none;
+    border-radius: 3px;
 }
 
 .btn button {
-    padding: 13px 50px;
+    padding: 12px 50px;
     color: white;
     font-family: sans-serif;
     font-weight: bolder;
